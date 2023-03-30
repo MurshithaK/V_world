@@ -1,0 +1,70 @@
+div.alb-img{
+    background-image: url("V/background1.jpg");
+    height: 700px;
+    width: 68%;
+    margin-left: 16%;
+    
+}
+div.winter-bear{
+    background-image: url("V/winterbear.jpg");
+    height: 700px;
+    width: 68%;
+    margin-left: 16%;
+
+}
+div.clock{
+    background-image: url("V/4oclock.jpg");
+    height: 700px;
+    width: 68%;
+    margin-left: 16%;
+
+}
+div.blue-gray{
+    background-image: url("V/blue-gray.jpg");
+    height: 700px;
+    width: 68%;
+    margin-left: 16%;
+}
+div.hold-me-tight{
+    background-image: url("V/hold-me-tight.jpg");
+    height: 700px;
+    width: 68%;
+    margin-left: 16%;
+}
+div.snow-flower{
+    background-image: url("V/snow-flower.jpg");
+    height: 450px;
+    width: 68%;
+    margin-left: 16%;
+}
+div.sweet-night{
+    background-image: url("V/sweet-night.webp");
+    height: 700px;
+    width: 68%;
+    margin-left: 16%;
+}
+div.scenery{
+    background-image: url("V/scenery.jpg");
+    height: 700px;
+    width: 68%;
+    margin-left: 16%;
+}
+div.cristmass-tree{
+    background-image: url("V/cristmass-tree.png");
+    height: 700px;
+    width: 68%;
+    margin-left: 16%;
+}
+div.its-definitely-u{
+    background-image: url("V/its-definitely-you.jpg");
+    height: 700px;
+    width: 68%;
+    margin-left: 16%;
+}
+body{
+    background-color: black;
+}
+div.column{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}

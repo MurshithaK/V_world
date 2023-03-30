@@ -1,0 +1,141 @@
+PICTURES:
+    1 BLACK COAT
+    2 CUTE
+    3 BOXY SMILE
+    4 MAFIA
+    5 ANIME
+    6 TATA MIC
+    7 SILENT
+    8 AWARDS
+    9 AIRPORT STYLE
+    10 HANDSOME
+    11 VKOOK
+    12 VMIN
+    13 VMINKOOK
+    14 WITH BTS
+    15 INSTAGRAM
+    16 TWITTER
+    17 VLIVE
+    18 HAVARANG
+
+    19 PHOTOGRAPHY
+
+
+
+BIO-DATA
+QUIZZ
+ALBUMS (NAMES,YEAR WITH LINK)
+LIVES
+SIGN IN
+FEEDBACK
+CHATBOAT
+
+
+
+
+
+
+
+
+
+
+div.alb-img{
+    background-image: url("V/background1.jpg");
+    height: 700px;
+    width: 100%;
+    
+    background-repeat: no-repeat;
+}
+div.winter-bear{
+    background-image: url("V/winterbear.jpg");
+
+}
+div.clock{
+    background-image: url("V/4oclock.jpg");
+
+}
+div.blue-gray{
+    background-image: url("V/blue-gray.jpg");
+}
+div.hold-me-tight{
+    background-image: url("V/hold-me-tight.jpg");
+}
+div.snow-flower{
+    background-image: url("V/snow-flower.jpg");
+    height: 450px;
+    width: 68%;
+    margin-left: 16%;
+}
+div.sweet-night{
+    background-image: url("V/sweet-night.webp");
+}
+div.scenery{
+    background-image: url("V/scenery.jpg");
+}
+div.cristmass-tree{
+    background-image: url("V/cristmass-tree.png");
+}
+div.its-definitely-u{
+    background-image: url("V/its-definitely-you.jpg");
+}
+div.row{
+    display: -ms-flexbox;
+    /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap;
+    /* IE10 */
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+div.column{
+    -ms-flex: 20%;
+    /* IE10 */
+    flex:20%;
+    max-width:20%;
+    padding: 0 4px;
+}
+
+    
+
+body{
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="album-style.css">
+    <title>Tae Albums</title>
+</head>
+<body>
+    <div class="alb-img"></div>
+    <div class="row">
+        <div class="column">
+        <div class="its-definitely-u"></div>
+        <div class="winter-bear"> </div>
+        <div class="clock"> </div>
+    </div>
+    <div class="column">
+        <div class="blue-gray"></div>
+        <div class="hold-me-tight"></div>
+        <div class="snow-flower"> </div>
+    </div>
+    <div class="column">
+        <div class="sweet-night"></div>
+        <div class="scenery"></div>
+        <div class="cristmass-tree"></div> 
+    </div>
+</div>
+        
+</body>
+</html>
